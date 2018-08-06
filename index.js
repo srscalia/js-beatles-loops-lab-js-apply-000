@@ -10,6 +10,6 @@ function johnLennonFacts(facts) {
   let excitement = [];
   let i = 0;
   while (i < facts.length) {
-    
+    excitement.push(facts[i]+"!!!")
   }
 }
