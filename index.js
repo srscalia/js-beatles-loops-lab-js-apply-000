@@ -1,1 +1,4 @@
-// add solution here
+function theBeatlesPlat(musicians, instruments) {
+  let sentences = [];
+  
+}
